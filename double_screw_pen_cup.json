@@ -1,0 +1,55 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "narrow_7_7": {
+            "nut_cut": "3",
+            "nut_height": "12",
+            "nut_radius": "44",
+            "nut_thread_tolerance": "0.70000000000000007",
+            "nut_type": "hex",
+            "right_starts": "7",
+            "screw_length": "80",
+            "show_arrow": "true",
+            "thread_inner_radius": "32",
+            "thread_outer_radius": "35",
+            "thread_pitch": "7",
+            "thread_resolution": "90",
+            "what_to_output": "model"
+        },
+        "wide_4_7": {
+            "left_starts": "4",
+            "nut_cut": "3",
+            "nut_height": "12",
+            "nut_radius": "40",
+            "nut_thread_tolerance": "0.30000000000000004",
+            "nut_type": "round",
+            "right_starts": "7",
+            "screw_length": "80",
+            "show_arrow": "true",
+            "show_direction": "true",
+            "thread_inner_radius": "32",
+            "thread_outer_radius": "35",
+            "thread_pitch": "14",
+            "thread_resolution": "90",
+            "what_to_output": "model"
+        },
+        "wide_4_4": {
+            "left_starts": "4",
+            "nut_cut": "3",
+            "nut_height": "12",
+            "nut_radius": "40",
+            "nut_thread_tolerance": "0.30000000000000004",
+            "nut_type": "round",
+            "right_starts": "4",
+            "screw_length": "80",
+            "show_arrow": "true",
+            "show_direction": "true",
+            "show_starts": "true",
+            "thread_inner_radius": "32",
+            "thread_outer_radius": "35",
+            "thread_pitch": "14",
+            "thread_resolution": "90",
+            "what_to_output": "model"
+        }
+    }
+}
